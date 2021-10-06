@@ -14,7 +14,7 @@ public class Calc
     }
 
     public static int subtract(int a, int b){
-        int sub = a + b;
+        int sub = a - b;
         return sub;
     }
 }
