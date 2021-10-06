@@ -19,7 +19,7 @@ public class CalcTest{
 
     @Test
     void testSubtract() {
-        int a = calc.add(5, 3);
+        int a = calc.subtract(5, 3);
         assertTrue(a==2);
     }
 
